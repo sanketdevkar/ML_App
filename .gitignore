@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+env/
+.env
+backend/logs/
+backend/screenshots/
+*.pyc
